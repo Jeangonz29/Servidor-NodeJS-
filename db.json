@@ -1,0 +1,30 @@
+{
+  "usuario": [
+    {
+      "id": "47c6",
+      "username": "holaa"
+    },
+    {
+      "id": "ab1e",
+      "username": "Johana"
+    }
+  ],
+  "tareas": [
+    {
+      "id": "cbfe",
+      "text": "otra",
+      "user": "Johana",
+      "checked": true
+    },
+    {
+      "id": "8dab",
+      "text": "nueva",
+      "user": "Johana"
+    },
+    {
+      "id": "886f",
+      "text": "nueva",
+      "user": "Johana"
+    }
+  ]
+}
