@@ -1,0 +1,12 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Ignora la carpeta node_modules
+# dependencies
+node_modules
+
+# Ignora todos los archivos de texto
+*.txt
+
+# Ignora los archivos relacionados a API keys
+# local env files
+.env*.local
